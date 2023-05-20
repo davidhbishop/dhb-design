@@ -1,0 +1,27 @@
+# Ignore compiled files.
+dist
+storybook-static
+
+# Yarn/NPM
+node_modules
+
+# Storybook
+.out
+.cache
+
+# System
+.DS_Store
+.idea
+
+# Git deploy
+.publish
+
+# Composer
+composer.lock
+vendor
+
+# Jest
+.coverage
+
+# Logs
+*.log
